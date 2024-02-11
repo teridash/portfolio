@@ -368,6 +368,13 @@ img {
   text-align: center;
 }
 
+.php {
+  margin-top: 25px;
+}
+
+.html {
+  margin-top: 15px;
+}
 /*media Queries 767
 ----------------------------------------------------*/
 @media screen and (max-width: 767px) {
